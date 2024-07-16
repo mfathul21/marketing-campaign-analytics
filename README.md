@@ -26,6 +26,12 @@ The "bank target marketing" dataset is a collection of data focused on a bank's 
 - **poutcome**: Outcome from the previous marketing campaign.
 - **y**: Has the client subscribed a term deposit?
 
+## Objectives
+1. **Data Exploration:** Investigate customer attributes and campaign details.
+2. **Predictive Modeling:** Develop machine learning models to forecast term deposit subscriptions.
+3. **Evaluation:** Measure model performance using metrics such as ROC AUC, precision, recall, and F1-score.
+4. **Business Recommendations:** Provide strategic insights to optimize future marketing efforts and increase subscription rates effectively.
+
 ## Model Evaluation
 ### ROC Curve
 <img src="assets/roc_curve.png" alt="ROC Curve" width="800">
