@@ -30,9 +30,6 @@ The "bank target marketing" dataset is a collection of data focused on a bank's 
 ### ROC Curve
 <img src="assets/roc_curve.png" alt="ROC Curve" width="800">
 
-### Confusion Matrix - XGBClassifier Model (Best Model)
-<img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="800">
-
 ### Classification Report - XGBClassifier Model
 |            | Precision | Recall | F1-Score | Support |
 |------------|-----------|--------|----------|---------|
@@ -42,6 +39,9 @@ The "bank target marketing" dataset is a collection of data focused on a bank's 
 | **Accuracy**|           |        | 0.86     | 6524    |
 | **Macro Avg**| 0.69      | 0.76   | 0.71     | 6524    |
 | **Weighted Avg**| 0.89  | 0.86   | 0.87     | 6524    |
+
+### Confusion Matrix - XGBClassifier Model (Best Model)
+<img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="800">
 
 ### Conversion Rate Analysis
 - Conversion Rate (without model): 11.25%
