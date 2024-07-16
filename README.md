@@ -5,6 +5,12 @@ In today's competitive financial landscape, effective marketing strategies are c
 
 Through detailed analysis, this project aims to identify patterns and correlations that influence term deposit subscriptions. By leveraging these insights, banks can refine their marketing strategies to better target and engage potential customers. This approach not only enhances subscription rates but also improves resource allocation and customer retention efforts.
 
+## Objectives
+1. **Data Exploration:** Investigate customer attributes and campaign details.
+2. **Predictive Modeling:** Develop machine learning models to forecast term deposit subscriptions.
+3. **Evaluation:** Measure model performance using metrics such as ROC AUC, precision, recall, and F1-score.
+4. **Business Recommendations:** Provide strategic insights to optimize future marketing efforts and increase subscription rates effectively.
+
 ## Dataset Information
 The "bank target marketing" dataset is a collection of data focused on a bank's marketing campaign to acquire deposits from customers. This dataset contains various attributes related to customer demographics, their previous interactions with the bank, and the outcomes of the marketing campaign conducted.
 
@@ -25,12 +31,6 @@ The "bank target marketing" dataset is a collection of data focused on a bank's 
 - **previous**: Number of contacts performed before this campaign for the customer.
 - **poutcome**: Outcome from the previous marketing campaign.
 - **y**: Has the client subscribed a term deposit?
-
-## Objectives
-1. **Data Exploration:** Investigate customer attributes and campaign details.
-2. **Predictive Modeling:** Develop machine learning models to forecast term deposit subscriptions.
-3. **Evaluation:** Measure model performance using metrics such as ROC AUC, precision, recall, and F1-score.
-4. **Business Recommendations:** Provide strategic insights to optimize future marketing efforts and increase subscription rates effectively.
 
 ## Model Evaluation
 ### ROC Curve
