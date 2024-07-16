@@ -30,6 +30,12 @@ This dataset is valuable for analyzing the factors influencing customers' decisi
 - **poutcome**: Outcome from the previous marketing campaign. (Categorical)
 - **y**: Has the client subscribed a term deposit? (Categorical)
 
+## Evaluation Model
+<img src="assets/roc_curve.png" alt="ROC Curve" width="800">
+
+<img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="800">
+
+
 ## Business Recomendation
 Based on the observations from the time deposit campaign data, here are some business recommendations:
 - Focus marketing efforts on customers aged 30-40 years, as they constitute the majority of campaign participants. Additionally, consider targeting younger (students) and older (retirees) age groups, as they show higher subscription rates to term deposits.
